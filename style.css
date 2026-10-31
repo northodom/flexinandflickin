@@ -17,3 +17,5 @@ nav a{color:var(--tx);text-decoration:none;margin-left:1rem;font-weight:600;font
 .split{display:grid;gap:2rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}.safety{border:1px solid var(--cu);border-radius:10px;padding:1.5rem}.safety ul{padding-left:1.2rem}
 .pagehead{min-height:50vh}footer{border-top:1px solid #161B33;padding:2.5rem 5vw;text-align:center;color:var(--mu)}.disc{color:var(--tx)}.small{font-size:.8rem}
 @media(max-width:600px){nav a{margin:0 .8rem 0 0}.hero{min-height:88vh}}
+
+.tagline{color:var(--cu2);font-weight:700;font-size:1rem;letter-spacing:.02em;margin:.4rem 0 .2rem;border-left:3px solid var(--cu);padding-left:.6rem}
