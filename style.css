@@ -19,3 +19,4 @@ nav a{color:var(--tx);text-decoration:none;margin-left:1rem;font-weight:600;font
 @media(max-width:600px){nav a{margin:0 .8rem 0 0}.hero{min-height:88vh}}
 
 .tagline{color:var(--cu2);font-weight:700;font-size:1rem;letter-spacing:.02em;margin:.4rem 0 .2rem;border-left:3px solid var(--cu);padding-left:.6rem}
+.picks{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin:1rem 0}.pick{background:var(--bk2);border:1px solid #1E2547;border-radius:10px;padding:1.1rem;display:flex;flex-direction:column;justify-content:space-between;gap:1rem}.pick h3{font-family:Inter,sans-serif;font-size:.95rem;font-weight:600;letter-spacing:0;line-height:1.4}.fh{color:var(--tx);font-size:1.6rem;margin-top:1.5rem}.pagehead h2{margin-top:2rem}.pagehead .safety{margin-top:2.5rem}.tag{font-family:"Bebas Neue",sans-serif;color:var(--cu2);letter-spacing:.1em;font-size:1.2rem}
